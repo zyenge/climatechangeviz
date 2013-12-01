@@ -1,9 +1,9 @@
 climatechangeviz
 ================
 
-visualizations of changes in the climate/environment.. 
+data visualizations for things relevant to climate changes.
 
-Not really..
+
 
 
 
