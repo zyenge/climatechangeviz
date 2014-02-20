@@ -1,0 +1,56 @@
+kar laptop
+slide 1 (Zhen):
+introduce sentiment analysis
+- read tweet
+- clearly positive
+- sentiment analysis
+
+slide 2 ():
+Zhen: explains training data
+kar: do testing data, api, mongo, query
+- API - convinient way to get lots of data
+- Usually 2 or 3 methods: get, post
+- 
+demo
+- mongod
+- mongo
+- db
+- collection
+- twitter to mongo
+- show a tweet, mention a couple things - more info in api than through app , geo/location/text/metadata
+
+slide 3: 
+Overview preprocessing
+- reduce noise
+- remove parts irrelevant to sentiment
+- extract features
+
+zhen
+
+slide 4:
+zhen
+read tweet, ask audience, what features are needed to show sentiment of tweet?
+
+slide 5; show cleaned tweet
+
+slide 6: 
+- analogy of humans to explain what features are
+- explain feature vector
+
+slide 7: 
+just give general idea, save details for Q & A
+- random forest - ensemble method, picks mode of decision trees, built on diff subset of training data, so each tree is a little different, 
+- naive bayes, just be cool
+- logistic regression
+
+slide 8: eval
+pre
+rec
+f
+avg acc
+
+graphs
+
+good night
+
+
